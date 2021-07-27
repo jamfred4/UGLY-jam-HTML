@@ -1,0 +1,61 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: #a3c5d6;
+    font-family : Papyrus, sans-serif;
+  
+
+
+
+}
+
+body{
+    background-color: #a3c5d6;
+    font-size: 20px;
+    font-family : Papyrus, sans-serif;
+    border: 10px solid rgb(0,0,0);
+}
+
+div{
+    background-color: rgb(61,87,100);
+   
+}
+.each_pokemon_container {
+      
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+    
+
+}
+h2 {
+    color: white;
+}
+
+div p {
+    font-size : 100%;
+    font-family : Papyrus, sans-serif;
+    font-weight: bold;
+    border: 4px solid rgb(0,0,0);
+    
+}
+#id2 {
+    background-color: white;
+}
+
+.dividers {
+    font-size: 24px;
+    
+    
+}
+
+.introduction{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:75%;  
+    font-family : Papyrus, sans-serif;
+    border: 7px solid rgb(0,0,0);
+}
